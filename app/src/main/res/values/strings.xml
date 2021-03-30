@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">GameCrush</string>
+    <string name="app_name">My Application</string>
+    <string name="submit">Submit</string>
+    <string name="guess">Your Guess</string>
+    <string name="range">Range is between</string>
+    <string name="title">Random Number Guessing Game</string>
 </resources>
